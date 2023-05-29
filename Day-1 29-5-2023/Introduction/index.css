@@ -1,0 +1,19 @@
+h1{
+    color:red;
+}
+span{
+    color:blue;
+}
+.partioned{
+    border: 1px solid black;
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+
+    
+}
+.secondbox{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border: 1px solid black;
+}
