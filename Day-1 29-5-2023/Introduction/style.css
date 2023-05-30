@@ -42,7 +42,12 @@
 }
 
 
- 
+ .midsection > h1 {
+    text-align: center;
+ }
+ a{
+    color: #fff;
+ }
 
 body{
     background-color: #3C486B;
