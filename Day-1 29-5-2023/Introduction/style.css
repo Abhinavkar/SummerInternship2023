@@ -1,0 +1,52 @@
+.uppersection1 {
+    display: flex;
+    flex-direction: row;
+ 
+    justify-content: space-evenly;
+
+}
+
+.uppersection1-1 img{
+   padding: 50px;
+}
+.uppersection1-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-top:70px;
+    width: 50%;
+    height: 50%;
+    height: max-content;
+  
+}
+.uppersection1-2 h2{
+    font-size: 50px;
+    font-weight: 700;
+    color: #F45050;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+.uppersection1-2 span{
+    font-size: 200px;
+    font-weight: 700;
+    color: #F9D949;
+  
+    margin-bottom: 20px;
+}
+.midsection1-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: #fff solid 2px;
+    height: auto;
+    
+
+  
+}
+
+
+ 
+
+body{
+    background-color: #3C486B;
+}
