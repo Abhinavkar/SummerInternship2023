@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "email": "jhasvdf@hjksh.com",
+      "password": "123145",
+      "id": 1
+    },
+    {
+      "email": "hi@gmail.com",
+      "password": "azsdasd",
+      "number": "123123",
+      "name": "hi",
+      "id": 2
+    },
+    {
+      "email": "karabhinav24@gmail.com",
+      "password": "123123",
+      "number": "1231231",
+      "name": "Abhinav Kar",
+      "id": 3
+    }
+  ]
+}
