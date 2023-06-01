@@ -29,6 +29,7 @@ button.addEventListener('click', () => {
             password: pass,
             number:num,
             name:nam,
+
             
         })
     }).then((res) => res.json())
