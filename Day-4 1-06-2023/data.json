@@ -1,0 +1,24 @@
+{ "data":[{
+    "title":"Pizza",
+    "photo":"https://th.bing.com/th/id/OIP.zNsLu3Hwfbi3vsU4SaWBpQHaHa?pid=ImgDet&rs=1",
+    "description":" Pizza is a savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients which is then baked at a high temperature, traditionally in a wood-fired oven.",
+    "Rating" : 4.5, 
+    "price":100
+
+},
+{
+    "title":"Burger",
+    "photo":"https://th.bing.com/th/id/OIP.rfjUaFvCTwDB2CE-um2eHAHaHa?w=193&h=193&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "description":"A hamburger (also burger for short) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled.",
+    "Rating" : 4.5,
+    "price":100
+
+},
+{
+    "title":"Momos",
+    "photo":"https://th.bing.com/th/id/OIP.zNsLu3Hwfbi3vsU4SaWBpQHaHa?pid=ImgDet&rs=1",
+    "description":"momons are the best food in the world.",
+    "Rating" : 4.5,
+    "price":100
+}
+]}
