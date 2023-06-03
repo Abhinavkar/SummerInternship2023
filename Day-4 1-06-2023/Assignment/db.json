@@ -1,52 +1,5 @@
 {
-  "userInfo": [
-    {},
-    {
-      "id": 1685638161043,
-      "email": "123@gmail.com",
-      "password": "123123"
-    },
-    {
-      "email": "123@gmail.com",
-      "password": "123123",
-      "id": 1685638161044
-    },
-    {
-      "email": "q2e123",
-      "password": "123123",
-      "id": 1685638161045
-    },
-    {
-      "email": "hi1@gmail.com",
-      "password": "123",
-      "id": 1685638161046
-    },
-    {
-      "email": "",
-      "password": "",
-      "id": 1685638161047
-    },
-    {
-      "email": "hi123@gmail.com",
-      "password": "123123",
-      "id": 1685638161048
-    },
-    {
-      "email": "nilesh@gmail.com",
-      "password": "123123",
-      "id": 1685638161049
-    },
-    {
-      "email": "hi@gmail.com",
-      "password": "123123",
-      "id": 1685638161050
-    },
-    {
-      "email": "hi@gmail.com",
-      "password": "123123",
-      "id": 1685638161051
-    }
-  ],
+
   "recipe": [
     {
       "item": "rasgulla",

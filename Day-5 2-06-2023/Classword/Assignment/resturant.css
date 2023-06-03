@@ -1,0 +1,149 @@
+/* Global Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #333;
+    color: #000;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Hero Section Styles */
+  #hero {
+    background-image: url("./ivan-stern-LOLSb7m6XkU-unsplash.jpg");
+    opacity:87%;
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px; /* Increase the height as needed */
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+  .hero-content {
+    text-align: center;
+    color: #fff;
+  }
+  
+  .hero-content h1 {
+    font-size: 36px;
+    margin-top: 200px;
+    margin-bottom: 20px;
+  }
+  
+  .hero-content p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .hero-content .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  /* Menu Section Styles */
+  #menu {
+    background-color: #f0f0f0;
+    padding: 40px 0;
+    text-align: center;
+    height: fit-content;
+  }
+  
+  #menu h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .menu-items {
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .menu-item {
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .menu-item img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .menu-item h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .menu-item p {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .menu-item span {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  /* About Section Styles */
+  #about {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  #about h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  #about p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  .btn{
+    width: 200px;
+    color: #000;
+  }
+  
